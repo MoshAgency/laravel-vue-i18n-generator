@@ -1,6 +1,6 @@
 ## About
 
-**This is a fork**
+**This is a fork**  
 This is a fork of [martinlindhe/laravel-vue-i18n-generator](https://github.com/martinlindhe/laravel-vue-i18n-generator)
 
 Laravel 8 package that allows you to share your [Laravel localizations](https://laravel.com/docs/5.8/localization)
