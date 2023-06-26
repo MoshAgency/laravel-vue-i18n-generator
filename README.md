@@ -13,7 +13,7 @@ Configuration paths have changed in Laravel 5.7, in order for this package to fu
 ## Install the package
 
 In your project:
-`composer require martinlindhe/laravel-vue-i18n-generator --dev`
+`composer require moshagency/laravel-vue-i18n-generator --dev`
 
 ### For Laravel 5.4 and below:
 
